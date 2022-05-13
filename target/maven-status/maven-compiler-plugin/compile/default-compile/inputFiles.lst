@@ -1,0 +1,10 @@
+/home/chris/java-projects/todo/todo-management-spring-boot/src/main/java/net/guides/springboot/todomanagement/service/ITodoService.java
+/home/chris/java-projects/todo/todo-management-spring-boot/src/main/java/net/guides/springboot/todomanagement/controller/LogoutController.java
+/home/chris/java-projects/todo/todo-management-spring-boot/src/main/java/net/guides/springboot/todomanagement/TodoManagementSpringBoot2Application.java
+/home/chris/java-projects/todo/todo-management-spring-boot/src/main/java/net/guides/springboot/todomanagement/controller/WelcomeController.java
+/home/chris/java-projects/todo/todo-management-spring-boot/src/main/java/net/guides/springboot/todomanagement/service/TodoService.java
+/home/chris/java-projects/todo/todo-management-spring-boot/src/main/java/net/guides/springboot/todomanagement/security/SecurityConfiguration.java
+/home/chris/java-projects/todo/todo-management-spring-boot/src/main/java/net/guides/springboot/todomanagement/controller/TodoController.java
+/home/chris/java-projects/todo/todo-management-spring-boot/src/main/java/net/guides/springboot/todomanagement/model/Todo.java
+/home/chris/java-projects/todo/todo-management-spring-boot/src/main/java/net/guides/springboot/todomanagement/repository/TodoRepository.java
+/home/chris/java-projects/todo/todo-management-spring-boot/src/main/java/net/guides/springboot/todomanagement/controller/ErrorController.java
